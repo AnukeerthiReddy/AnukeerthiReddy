@@ -11,5 +11,5 @@ Data Enthusiast | Turning Raw Data into Actionable Insights
 - 
 ### 🔗 Connect with Me  
 - 📫 **Email:** anukerthireddy22@gmail.com
-- 💼 **LinkedIn:** [your LinkedIn profile]  
-- 🌐 **Portfolio:** [https://www.linkedin.com/in/anukeerthi-reddy/] 
+- 💼 **LinkedIn:** [[your LinkedIn profile](https://www.linkedin.com/in/anukeerthi-reddy/)]  
+- 🌐 **Portfolio:** [https://anukeerthireddy.github.io/anukeerthi.github.io/]
