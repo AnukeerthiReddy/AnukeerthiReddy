@@ -8,7 +8,12 @@ Data Enthusiast | Turning Raw Data into Actionable Insights
 - **📈 Data Science & AI** – Building **predictive models, NLP applications, and Generative AI solutions**.  
 - **📉 Statistical Analysis & Risk Modeling** – Experience with **hypothesis testing, regression models, and business intelligence insights**.  
 - **☁️ Cloud & AI Integration** – Leveraging **Google Cloud (Vertex AI), Azure, and Databricks** for cloud-based data workflows.
-- 
+
+### Certifications
+- [Microsoft Certified: Azure Data Scientist Associate]([Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/anukeerthireddypothepalli-1254/credentials/6b0d65ef0fc8937))
+- [GenAI Certified Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=732302213445F88E627C4008864DAF37A6B65E979728E4A467D62C22B75380BC)
+- [DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0015780381244)
+  
 ### 🔗 Connect with Me  
 - 📫 **Email:** anukerthireddy22@gmail.com
 - 💼 **LinkedIn:** [[Anukeerthi Reddy Pothepalli](https://www.linkedin.com/in/anukeerthi-reddy/)]  
