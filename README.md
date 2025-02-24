@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there👋 I'm Anukeerthi!
 
-<!--
-**AnukeerthiReddy/AnukeerthiReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Enthusiast | Turning Raw Data into Actionable Insights
+📊 Passionate about storytelling with data, machine learning, and solving real-world problems. With a strong background in **data analytics, statistical modeling, and machine learning**, I enjoy working on projects that involve **data-driven decision-making and AI-powered automation**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do  
+- **📊 Data Analytics** – Working with **SQL, Python (Pandas, NumPy), and visualization tools like Tableau & Power BI**.  
+- **📈 Data Science & AI** – Building **predictive models, NLP applications, and Generative AI solutions**.  
+- **📉 Statistical Analysis & Risk Modeling** – Experience with **hypothesis testing, regression models, and business intelligence insights**.  
+- **☁️ Cloud & AI Integration** – Leveraging **Google Cloud (Vertex AI), Azure, and Databricks** for cloud-based data workflows.
+- 
+### 🔗 Connect with Me  
+- 📫 **Email:** anukerthireddy22@gmail.com
+- 💼 **LinkedIn:** [your LinkedIn profile]  
+- 🌐 **Portfolio:** [https://www.linkedin.com/in/anukeerthi-reddy/] 
