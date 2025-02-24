@@ -1,7 +1,7 @@
 ## Hi there👋 I'm Anukeerthi!
 
 Data Enthusiast | Turning Raw Data into Actionable Insights
-📊 Passionate about storytelling with data, machine learning, and solving real-world problems. With a strong background in **data analytics, statistical modeling, and machine learning**, I enjoy working on projects that involve **data-driven decision-making and AI-powered automation**.
+📊 Passionate about storytelling with data, machine learning, and solving real-world problems. I enjoy working on projects that involve **data-driven decision-making and AI-powered automation**.
 
 ### 💡 What I Do  
 - **📊 Data Analytics** – Working with **SQL, Python (Pandas, NumPy), and visualization tools like Tableau & Power BI**.  
