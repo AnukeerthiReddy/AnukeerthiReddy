@@ -7,7 +7,7 @@ Data Enthusiast | Turning Raw Data into Actionable Insights
 - **📊 Data Analytics** – Working with **SQL, Python (Pandas, NumPy), and visualization tools like Tableau & Power BI**.  
 - **📈 Data Science & AI** – Building **predictive models, NLP applications, and Generative AI solutions**.  
 - **📉 Statistical Analysis & Risk Modeling** – Experience with **hypothesis testing, regression models, and business intelligence insights**.  
-- **☁️ Cloud & AI Integration** – Leveraging **Google Cloud (Vertex AI), Azure, and Databricks** for cloud-based data workflows.
+- **☁️ Cloud & AI Integration** – Leveraging **Google Cloud (Vertex AI), Azure, AWS and Databricks** for cloud-based data workflows.
 
 ### Certifications
 - [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/anukeerthireddypothepalli-1254/credentials/6b0d65ef0fc8937)
