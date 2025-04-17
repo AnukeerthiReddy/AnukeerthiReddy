@@ -1,7 +1,7 @@
 ## Hi there👋 I'm Anukeerthi!
 
 Data Enthusiast | Turning Raw Data into Actionable Insights  
-📊 Passionate about storytelling with data, machine learning, LLM, GenAI and solving business challenges through data, coz thats the crunch.  
+Passionate about storytelling with data, machine learning, LLM, GenAI and solving business challenges through data, coz thats the crunch.  
 I enjoy working on projects that involve **data-driven decision-making and AI-powered automation**.  
   
 ### 💡 What I Do  
